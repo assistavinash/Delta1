@@ -24,6 +24,10 @@ body {
     #filters{
         margin-left: 6rem  ;
     }
+    #map{
+    height: 15rem !important;
+    width: 13rem !important;
+   }
   }
   
 
