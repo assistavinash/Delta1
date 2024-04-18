@@ -12,6 +12,18 @@ body {
     height: 5rem;
     background-color:white;
 }
+.container-fluid{
+    background-color: #fff;
+}
+
+
+  @media (max-width: 768px) { /* Adjust breakpoint as needed */
+    .listing-card , .tax-toggle {
+    margin-left: 6rem  ;
+    }
+  }
+  
+
 .fa-compass {
 color:#fd424d;
 font-size: 2rem;
