@@ -18,8 +18,11 @@ body {
 
 
   @media (max-width: 768px) { /* Adjust breakpoint as needed */
-    .listing-card , .tax-toggle {
+    .listing-card {
     margin-left: 6rem  ;
+    }
+    #filters{
+        margin-left: 6rem  ;
     }
   }
   
